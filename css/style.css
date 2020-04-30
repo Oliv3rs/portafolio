@@ -5,13 +5,6 @@
     font-weight: normal;
     font-style: normal;
 }
-/* =======================================================
-*
-*   Template Style 
-* Edit this section
-*
-* ======================================================= */
-
 body {
     font-family: "Quicksand", Arial, sans-serif;
     font-weight: 400;
@@ -270,7 +263,7 @@ figure figcaption {
     background: #fff url(../images/loader.gif) no-repeat center center;
     width: 100%;
     float: left;
-    margin-bottom: 10em;
+    margin-bottom: 5em;
     clear: both;
 }
 #colorlib-hero .flexslider {
@@ -441,7 +434,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     padding: 0;
 }
 .colorlib-experience, .colorlib-skills, .colorlib-education, .colorlib-blog, .colorlib-work, .colorlib-about, .colorlib-services, .colorlib-contact {
-    padding-top: 4em;
+    padding-top: 1em;
     padding-bottom: 1em;
     clear: both;
     width: 100%;
