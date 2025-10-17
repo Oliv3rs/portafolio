@@ -4,4 +4,4 @@
 
 - Hello, this is my portafolio
 
-- Hola, es es mi portafolio
+- Hola, este es mi portafolio
